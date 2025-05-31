@@ -20,7 +20,7 @@ Educational Resources: Includes sections on causes, symptoms, diagnosis, and tre
 **Installation & Setup**
 
 Clone the Repository  
-git clone https://github.com/yourusername/OsteoDetect.git
+git clone https://github.com/muhammadhassanraza63/OsteoDetect.git
 
 
 **Navigate to the Project ** 
